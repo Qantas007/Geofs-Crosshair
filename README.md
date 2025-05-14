@@ -1,0 +1,2 @@
+# Geofs-Crosshair
+It adds a square crosshair in the middle of the Geo-fs screen for mouse users so you know where the 'zero' position is.
