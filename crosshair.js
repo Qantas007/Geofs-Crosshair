@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Static Crosshair
 // @namespace    http://tampermonkey.net/
-// @version      2.47
+// @version      24.7
 // @description  Adds a static crosshair in the middle of the screen in GeoFS with toggle functionality (key: L).
 // @author       PreciseScorpion
 // @match        *://www.geo-fs.com/*
